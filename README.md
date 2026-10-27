@@ -37,7 +37,7 @@ I am open to high-impact open-source initiatives, enterprise infrastructure audi
 
 ### 📫 Connect With Me
 <p align="left">
-  <a href="https://t.me"><img src="https://shields.io" alt="Telegram"></a>
+  <a href="https://t.me/smg38"><img src="https://shields.io" alt="Telegram"></a>
   <a href="mailto:smg38g@google.com"><img src="https://shields.io" alt="Email"></a>
 </p>
 
